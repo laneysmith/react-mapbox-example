@@ -1,6 +1,6 @@
 # React + Mapbox example app
 
-This app accompanies the article posted here: 
+This app accompanies the article posted here: [https://dev.to/laney/react-mapbox-beginner-tutorial-2e35](https://dev.to/laney/react-mapbox-beginner-tutorial-2e35)
 
 ## Quick start
 
